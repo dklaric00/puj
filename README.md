@@ -1,6 +1,6 @@
 # Projekt – SuperMarket-Management-System
 
-Programski jezici i tehnologije:
+#Programski jezici i tehnologije:
 
 • Java
 
@@ -8,11 +8,11 @@ Programski jezici i tehnologije:
 
 • CSS
 
-Baza podataka:
+# Baza podataka:
 
 • MySQL
 
-Koncept izrade:
+# Koncept izrade:
 
 • OOP – *Object-oriented programming*
 
@@ -20,7 +20,7 @@ Koncept izrade:
 
 • Singleton
 
-Programska podrška:
+# Programska podrška:
 
 • Apache NetBeans IDE 12.6
 
