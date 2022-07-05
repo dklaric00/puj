@@ -1,0 +1,10 @@
+***************************** Vaš Račun ******************************
+Naziv Proizvoda : Argeta pašteta
+Cijena Proizvoda : 1.5 KM
+Popust na Proizvod : 23%
+--------------------------------------
+Naziv Proizvoda : Rajčica
+Cijena Proizvoda : 2.55 KM
+Popust na Proizvod : 1%
+--------------------------------------
+
