@@ -1,6 +1,6 @@
 # Projekt – SuperMarket-Management-System
 
-#Programski jezici i tehnologije:
+# Programski jezici i tehnologije
 
 • Java
 
@@ -8,11 +8,11 @@
 
 • CSS
 
-# Baza podataka:
+# Baza podataka
 
 • MySQL
 
-# Koncept izrade:
+# Koncept izrade
 
 • OOP – *Object-oriented programming*
 
@@ -20,13 +20,13 @@
 
 • Singleton
 
-# Programska podrška:
+# Programska podrška
 
 • Apache NetBeans IDE 12.6
 
 • SceneBuilder 18.0.0
 
-# Dizajn aplikacije:
+# Dizajn aplikacije
 
 ![1](https://user-images.githubusercontent.com/45989263/76685614-d4e3b900-661d-11ea-93c1-ab8396ed3fe0.png)
 ![3](https://user-images.githubusercontent.com/45989263/76685654-1aa08180-661e-11ea-9e8f-af807aeac7ed.png)
