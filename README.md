@@ -28,11 +28,16 @@
 
 # Dizajn aplikacije
 
-![1](https://user-images.githubusercontent.com/45989263/76685614-d4e3b900-661d-11ea-93c1-ab8396ed3fe0.png)
-![3](https://user-images.githubusercontent.com/45989263/76685654-1aa08180-661e-11ea-9e8f-af807aeac7ed.png)
-![4](https://user-images.githubusercontent.com/45989263/76685659-2ab86100-661e-11ea-83fc-22c91293cfe1.png)
-![6](https://user-images.githubusercontent.com/45989263/76685667-3b68d700-661e-11ea-8fc9-86ae9d34387d.png)
-![5](https://user-images.githubusercontent.com/45989263/76685680-52a7c480-661e-11ea-990d-58b27031e85b.png)
+![page_01](https://user-images.githubusercontent.com/94640801/177234975-ac32af9f-fcdf-4f1d-b7ce-5ecf579d08a0.png)
+
+![page_02](https://user-images.githubusercontent.com/94640801/177235058-00595224-7a5c-485e-bb7b-9b97d87eb5ae.png)
+
+![page_03](https://user-images.githubusercontent.com/94640801/177235090-1e5d19e4-1b2f-4a10-be0d-3914fdd2bbf7.png)
+
+![page_04](https://user-images.githubusercontent.com/94640801/177235109-0c84931c-a4cc-49d5-bb89-816c8dbf5b21.png)
+
+![page_05](https://user-images.githubusercontent.com/94640801/177235121-9b0a8823-f4d6-4da2-98c9-5f5ad231c31c.png)
+
 
 
 
